@@ -4,5 +4,5 @@
 ## Información Personal
 
 - **Nombre:** Latina Juan Pablo
-- **Dirección:** 60242
+- **Legajo:** 60242
 - **DNI:** 45731961
